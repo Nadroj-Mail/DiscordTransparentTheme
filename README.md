@@ -4,9 +4,9 @@ A Transparent discord green theme
 
 # How to
 
-## To use the theme BetterDiscord/vencord is required for it to work.
+## To use the theme [BetterDiscord](<https://betterdiscord.app/>) is required for it to work.
 
-Once betterDiscord/vencord are installed (only one or the other need to be installed):
+Once betterDiscord are installed:
 
 # BetterDiscord
 
