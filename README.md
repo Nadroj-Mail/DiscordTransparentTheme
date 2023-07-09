@@ -24,6 +24,8 @@ Custom CSS tab
 <img src="https://cdn.discordapp.com/attachments/1122601898923540481/1127673401176240188/image.png" />
 <img src="https://cdn.discordapp.com/attachments/1122601898923540481/1127673794929119262/image.png" />
 
+### OR, Download the file and place it into the Themes folder and enable it
+
 ## Then press "Update" (The Curling arrow on the CSS Editor <img src="https://cdn.discordapp.com/attachments/1122601898923540481/1127674810210726008/image.png" />)
 
 ### Once the update button has been pressed, the window of discord should update the UI and look somthing like this:
