@@ -29,6 +29,8 @@ Custom CSS tab
 ### Once the update button has been pressed, the window of discord should update the UI and look somthing like this:
 <img src="https://cdn.discordapp.com/attachments/1122601898923540481/1127675681556410529/image.png" />
 
+## For the green (or other color) notification us the plugin greenNotif 
+[Get here](<https://github.com/bud3699/DiscordPingColourChangeBD/blob/main/GreenNotif.plugin.js>)
 
 ## NOTE: To have the Translucent effect work the "enable tranceparency" toggle MUST be enabled 
 <img src="https://cdn.discordapp.com/attachments/1122601898923540481/1127676507091910829/image.png" />
